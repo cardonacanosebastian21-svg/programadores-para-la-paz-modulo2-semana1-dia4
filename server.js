@@ -43,7 +43,7 @@ app.post("/api/propuestas", (req, res) => {
 
   if (!req.body.titulo || req.body.titulo.trim() === "") {
     return res.status(400).json({
-      mensaje: "Falta el título. Toda propuesta debe tener un título claro."
+      mensaje: "Falta el título. Toda propuesta de veeduría debe tener un título claro."
     })
   }
 
@@ -101,7 +101,7 @@ app.post("/api/propuestas", (req, res) => {
   guardarPropuestas(propuestas)
 
   res.status(201).json({
-    mensaje: "Gracias. Tu propuesta fue recibida, guardada y queda pendiente de revisión editorial responsable.",
+    mensaje: "Gracias. Tu solicitud fue recibida, guardada y queda pendiente de revisión editorial responsable.",
     propuesta: nuevaPropuesta
   })
 })
@@ -118,3 +118,4 @@ app.listen(puerto, () => {
   console.log("GET  /api/propuestas")
   console.log("POST /api/propuestas")
 })
+ss

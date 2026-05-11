@@ -1,8 +1,8 @@
 Reflexión sobre API, participación y comunicación responsable – Módulo 2 Semana 1 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 11 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -23,3 +23,8 @@ En tu respuesta menciona al menos tres de estas ideas:
 - moderación responsable
 
 Respuesta:
+Una plataforma comunitaria debe gestionar las propuestas con rigor técnico y ético para garantizar la transparencia en los procesos de liderazgo 
+local. Al organizar y validar la información bajo un lenguaje claro y responsable, se asegura que cada iniciativa ciudadana sea entendida y 
+valorada sin sesgos, promoviendo una comunicación asertiva. Guardar los datos adecuadamente permite una trazabilidad efectiva, asegurando que 
+el ciudadano pueda ver el progreso de su idea en el tiempo. Finalmente, responder con claridad y responsabilidad es fundamental para fortalecer 
+la confianza comunitaria.
